@@ -8,5 +8,5 @@ int main(){
     double harga2 = 100000;
 
     cout << "Nama saya : " << nama << endl;
-    cout << "Harga makanan itu : " << harga2;
+    cout << "Harga makanan itu : " << harga;
 }
